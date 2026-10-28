@@ -55,10 +55,9 @@ The initial focus is on **animal management**, with features centered around the
 
 ### Backend
 
-* PHP
-* Laravel Herd
-* Laravel Eloquent
-* Laravel REST API
+* .NET
+* C#
+* Entity Framework
 
 ### Frontend
 
@@ -82,11 +81,11 @@ ZooFix follows a client-server architecture:
         REST API
            │
 ┌──────────▼──────────┐
-│       Laravel       │
-│         PHP         │
+│         .NET        │
+│          C#         │
 └──────────┬──────────┘
            │
-        Eloquent
+    Entity Framework
            │
 ┌──────────▼──────────┐
 │     PostgreSQL      │
@@ -102,7 +101,7 @@ The project is being built incrementally, starting with the core animal manageme
 ### Current Focus
 
 * [x] Project setup
-* [x] PostgreSQL database
+* [x] PostgreSQL database (in docker)
 * [ ] Backend API
 * [ ] React frontend
 * [ ] Animal management
@@ -114,21 +113,6 @@ The project is being built incrementally, starting with the core animal manageme
 * [ ] Breeding information
 * [ ] Dashboard
 
-## 🗺️ Future Ideas
-
-As the project grows, additional functionality may be considered, such as:
-
-* User accounts and roles
-* Task and schedule management
-* Inventory management
-* Animal transfers
-* Zoo maps
-* Notifications and alerts
-* Reporting and analytics
-* AI-assisted insights
-
-These features are **not part of the initial scope** and will only be considered if they make sense for the project.
-
 ## 📚 Purpose
 
 ZooFix is primarily a personal learning and development project focused on building a full-stack application using modern web technologies.
@@ -136,13 +120,13 @@ ZooFix is primarily a personal learning and development project focused on build
 The project provides an opportunity to explore:
 
 * REST API development
-* Laravel Herd an Eloquent
-* PHP
+* C# and .NET
+* Entity Framework Core
 * React and TypeScript
 * PostgreSQL
 * Database design
 * Full-stack application architecture
-* Testing
+* Distributed Monolith Architecture
 * Docker and development workflows
 
 ## 📄 License
