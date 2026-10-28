@@ -1,0 +1,12 @@
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\bin\Debug\net10.0\ZooFix.Animals.Domain.deps.json
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\bin\Debug\net10.0\ZooFix.Animals.Domain.dll
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\bin\Debug\net10.0\ZooFix.Animals.Domain.pdb
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\ZooFix.Animals.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\ZooFix.Animals.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\ZooFix.Animals.Domain.AssemblyInfo.cs
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\ZooFix.Animals.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\ZooFix.Animals.Domain.sourcelink.json
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\ZooFix.Animals.Domain.dll
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\refint\ZooFix.Animals.Domain.dll
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\ZooFix.Animals.Domain.pdb
+C:\Users\andre\ZooFix-Personal-Project-\ZooFix\src\ZooFix.Animals.Domain\obj\Debug\net10.0\ref\ZooFix.Animals.Domain.dll

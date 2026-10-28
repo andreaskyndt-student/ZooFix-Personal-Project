@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ZooFix.Animals.Main/1.0.0": {
+        "dependencies": {
+          "ZooFix.Animals.Application": "1.0.0",
+          "ZooFix.Animals.Domain": "1.0.0",
+          "ZooFix.Animals.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "ZooFix.Animals.Main.dll": {}
+        }
+      },
+      "ZooFix.Animals.Application/1.0.0": {
+        "dependencies": {
+          "ZooFix.Animals.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ZooFix.Animals.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ZooFix.Animals.Domain/1.0.0": {
+        "runtime": {
+          "ZooFix.Animals.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ZooFix.Animals.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ZooFix.Animals.Application": "1.0.0",
+          "ZooFix.Animals.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ZooFix.Animals.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZooFix.Animals.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZooFix.Animals.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZooFix.Animals.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZooFix.Animals.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

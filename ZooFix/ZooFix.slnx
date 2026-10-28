@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ZooFix.Animals.Application/ZooFix.Animals.Application.csproj" />
+    <Project Path="src/ZooFix.Animals.Domain/ZooFix.Animals.Domain.csproj" />
+    <Project Path="src/ZooFix.Animals.Infrastructure/ZooFix.Animals.Infrastructure.csproj" />
+    <Project Path="src/ZooFix.Animals.Main/ZooFix.Animals.Main.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ZooFix.Animals.Domain.Tests/ZooFix.Animals.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
