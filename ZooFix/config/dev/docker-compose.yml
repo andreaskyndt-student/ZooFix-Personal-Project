@@ -5,7 +5,7 @@ services:
     image: postgres
     container_name: zoofix-db-dev
     env_file:
-      - .zoofix.env
+      - ../.zoofix.env
     volumes:
       - zoofix-db-dev:/var/lib/postgresql
     ports:
